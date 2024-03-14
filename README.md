@@ -1,5 +1,7 @@
 # hit-hentai
 [หน้าแรก](https://hit-hentai.com/)
+[สุ่มเลย](https://hit-hentai.com/rand)
+[รวมหมวดหมู่](https://hit-hentai.com/category)
 ## รวมหมวดหมู่โดจิน
 * [Ahegao](https://hit-hentai.com/cats/ahegao/)
 * [NTR](https://hit-hentai.com/cats/ntr/)
